@@ -1,0 +1,1 @@
+C:\Users\oad093\repository\LaboratorioProgrammazione2\LaboratorioMAUI\MyKanbanApp\MyKanbanApp\MyKanbanApp.csproj;x64
